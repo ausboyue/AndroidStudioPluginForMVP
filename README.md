@@ -14,3 +14,6 @@ As result:
 
 Finally,Restart your android studio.Enjoy it.
 
+For more, please visit [《玩转Android Studio自定义模板插件-MVP模板为例》](https://www.icheny.cn/%E7%8E%A9%E8%BD%ACandroid-studio%E8%87%AA%E5%AE%9A%E4%B9%89%E6%A8%A1%E6%9D%BF%E6%8F%92%E4%BB%B6-mvp%E6%A8%A1%E6%9D%BF%E4%B8%BA%E4%BE%8B/).
+
+ 
